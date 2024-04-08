@@ -1,2 +1,5 @@
 # Learn-AB-Testing
-AB testing 實作
+
+## -Related resoucre:
+https://docs.google.com/document/d/11wuWeRn-BZKqI14yodnoGlv6TuVefzML/edit
+
